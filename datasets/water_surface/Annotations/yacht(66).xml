@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>游艇c</folder>
+   <filename>yacht(66).jpg</filename>
+   <path>F:\Yolo-V3\游艇c\yacht(66).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>262</width>
+      <height>174</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>yacht</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>21</xmin>
+         <ymin>62</ymin>
+         <xmax>246</xmax>
+         <ymax>148</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>yacht</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>113</xmin>
+         <ymin>60</ymin>
+         <xmax>162</xmax>
+         <ymax>77</ymax>
+      </bndbox>
+   </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPG</folder>
+	<filename>m(552).jpg</filename>
+	<path>F:\JPG\m(552).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1728</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>warship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>109</ymin>
+			<xmax>1692</xmax>
+			<ymax>875</ymax>
+		</bndbox>
+	</object>
+</annotation>

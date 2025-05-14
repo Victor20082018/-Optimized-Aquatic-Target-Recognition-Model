@@ -1,0 +1,26 @@
+<annotation>
+	<folder>renameboat</folder>
+	<filename>boat(1235).jpg</filename>
+	<path>F:\Yolo-V3\rename\renameboat\boat(1235).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>youlun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>296</ymin>
+			<xmax>953</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>

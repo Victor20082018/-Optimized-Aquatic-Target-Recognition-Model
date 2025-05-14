@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPG</folder>
+	<filename>w(453).jpg</filename>
+	<path>F:\JPG\w(453).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>537</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>128</ymin>
+			<xmax>867</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>游艇</folder>
+   <filename>yacht(88).jpg</filename>
+   <path>F:\Yolo-V3\游艇\yacht(88).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>250</width>
+      <height>188</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>yacht</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>35</xmin>
+         <ymin>32</ymin>
+         <xmax>225</xmax>
+         <ymax>112</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>fanchuan</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>13</xmin>
+         <ymin>50</ymin>
+         <xmax>34</xmax>
+         <ymax>85</ymax>
+      </bndbox>
+   </object>
+</annotation>

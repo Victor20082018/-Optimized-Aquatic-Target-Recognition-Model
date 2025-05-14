@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>person</folder>
+   <filename>person(1004).jpg</filename>
+   <path>F:\Yolo-V3\person\person(1004).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>640</width>
+      <height>427</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>person</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>124</xmin>
+         <ymin>317</ymin>
+         <xmax>147</xmax>
+         <ymax>365</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>person</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>177</xmin>
+         <ymin>323</ymin>
+         <xmax>199</xmax>
+         <ymax>365</ymax>
+      </bndbox>
+   </object>
+</annotation>

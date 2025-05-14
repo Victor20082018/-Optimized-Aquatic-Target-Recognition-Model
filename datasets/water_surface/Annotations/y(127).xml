@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPG</folder>
+	<filename>y(127).jpg</filename>
+	<path>F:\JPG\y(127).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yacht</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>138</ymin>
+			<xmax>600</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>2</folder>
+   <filename>2(598).jpg</filename>
+   <path>F:\Yolo-V3\2\2(598).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>220</width>
+      <height>220</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>youlun</name>
+      <pose>Unspecified</pose>
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>1</xmin>
+         <ymin>25</ymin>
+         <xmax>220</xmax>
+         <ymax>187</ymax>
+      </bndbox>
+   </object>
+</annotation>

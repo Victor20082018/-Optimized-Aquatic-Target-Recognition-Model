@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>hooker(62).jpg</filename>
+	<path>F:\VOC2007\VOC2007\JPEGImages\hooker(62).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>188</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>otherboat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>11</ymin>
+			<xmax>220</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

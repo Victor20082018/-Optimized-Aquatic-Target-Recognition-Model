@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rename2</folder>
+	<filename>2(962).jpg</filename>
+	<path>F:\Yolo-V3\rename\rename2\2(962).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>151</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>warship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>91</ymin>
+			<xmax>100</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

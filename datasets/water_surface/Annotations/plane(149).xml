@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>飞机405</folder>
+   <filename>plane(149).jpg</filename>
+   <path>F:\数据集图片\3e90d91f\飞机405\plane(149).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>722</width>
+      <height>448</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>airplane</name>
+      <pose>Unspecified</pose>
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>15</xmin>
+         <ymin>128</ymin>
+         <xmax>722</xmax>
+         <ymax>358</ymax>
+      </bndbox>
+   </object>
+</annotation>

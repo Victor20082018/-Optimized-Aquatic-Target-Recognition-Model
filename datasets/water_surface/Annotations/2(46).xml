@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>1</folder>
+   <filename>2(46).jpg</filename>
+   <path>F:\数据集图片\11956622\chuan\1\2(46).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>328</width>
+      <height>220</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>warship</name>
+      <pose>Unspecified</pose>
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>1</xmin>
+         <ymin>27</ymin>
+         <xmax>316</xmax>
+         <ymax>194</ymax>
+      </bndbox>
+   </object>
+</annotation>

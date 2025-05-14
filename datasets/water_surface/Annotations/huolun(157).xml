@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>huolun(157).jpg</filename>
+	<path>F:\VOC2007\VOC2007\JPEGImages\huolun(157).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>545</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cargoship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>33</ymin>
+			<xmax>467</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

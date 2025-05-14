@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Cargoship(13).jpg</filename>
+	<path>F:\VOC2007\VOC2007\JPEGImages\Cargoship(13).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>635</width>
+		<height>479</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cargoship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>46</ymin>
+			<xmax>550</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

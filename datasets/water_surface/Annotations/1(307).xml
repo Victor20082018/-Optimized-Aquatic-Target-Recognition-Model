@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>2</folder>
+   <filename>1(307).jpg</filename>
+   <path>F:\数据集图片\11956622\chuan\2\1(307).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>392</width>
+      <height>220</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>fanchuan</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>80</xmin>
+         <ymin>43</ymin>
+         <xmax>178</xmax>
+         <ymax>177</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>fanchuan</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>209</xmin>
+         <ymin>64</ymin>
+         <xmax>285</xmax>
+         <ymax>172</ymax>
+      </bndbox>
+   </object>
+</annotation>

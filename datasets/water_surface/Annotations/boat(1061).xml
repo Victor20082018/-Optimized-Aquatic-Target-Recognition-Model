@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>boat(1061).jpg</filename>
+	<path>F:\VOC2007\VOC2007\JPEGImages\boat(1061).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1269</width>
+		<height>869</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>otherboat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>385</ymin>
+			<xmax>885</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+</annotation>

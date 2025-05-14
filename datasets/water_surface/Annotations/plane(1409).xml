@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>飞机405</folder>
+   <filename>plane(1409).jpg</filename>
+   <path>F:\Yolo-V4数据集\飞机405\plane(1409).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>500</width>
+      <height>312</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>airplane</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>16</xmin>
+         <ymin>49</ymin>
+         <xmax>467</xmax>
+         <ymax>145</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>airplane</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>175</xmin>
+         <ymin>205</ymin>
+         <xmax>233</xmax>
+         <ymax>235</ymax>
+      </bndbox>
+   </object>
+</annotation>

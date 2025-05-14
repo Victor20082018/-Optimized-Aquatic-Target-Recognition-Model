@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>鱼摆摆</folder>
+   <filename>fish(1010).jpg</filename>
+   <path>F:\Yolo-V3\鱼摆摆\fish(1010).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>690</width>
+      <height>461</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>bird</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>405</xmin>
+         <ymin>99</ymin>
+         <xmax>499</xmax>
+         <ymax>176</ymax>
+      </bndbox>
+   </object>
+</annotation>

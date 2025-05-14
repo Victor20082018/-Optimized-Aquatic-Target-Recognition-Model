@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>1</folder>
+   <filename>2(1104).jpg</filename>
+   <path>F:\数据集图片\11956622\chuan\1\2(1104).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>293</width>
+      <height>220</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>youlun</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>10</xmin>
+         <ymin>94</ymin>
+         <xmax>282</xmax>
+         <ymax>155</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>youlun</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>57</xmin>
+         <ymin>29</ymin>
+         <xmax>185</xmax>
+         <ymax>59</ymax>
+      </bndbox>
+   </object>
+</annotation>

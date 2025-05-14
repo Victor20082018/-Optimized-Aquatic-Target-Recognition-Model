@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPG</folder>
+	<filename>m(322).jpg</filename>
+	<path>F:\JPG\m(322).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>915</width>
+		<height>610</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>24</ymin>
+			<xmax>896</xmax>
+			<ymax>604</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>1</folder>
+   <filename>2(296).jpg</filename>
+   <path>F:\数据集图片\11956622\chuan\1\2(296).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>320</width>
+      <height>220</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>yacht</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>17</xmin>
+         <ymin>141</ymin>
+         <xmax>77</xmax>
+         <ymax>165</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>yacht</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>46</xmin>
+         <ymin>132</ymin>
+         <xmax>122</xmax>
+         <ymax>156</ymax>
+      </bndbox>
+   </object>
+</annotation>

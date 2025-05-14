@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>鸟</folder>
+   <filename>bird(580).jpg</filename>
+   <path>F:\Yolo-V3\鸟\bird(580).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>443</width>
+      <height>292</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>bird</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>160</xmin>
+         <ymin>93</ymin>
+         <xmax>269</xmax>
+         <ymax>150</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>bird</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>293</xmin>
+         <ymin>142</ymin>
+         <xmax>438</xmax>
+         <ymax>207</ymax>
+      </bndbox>
+   </object>
+</annotation>

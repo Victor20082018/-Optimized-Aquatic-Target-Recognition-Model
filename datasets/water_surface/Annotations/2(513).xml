@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>1</folder>
+   <filename>2(513).jpg</filename>
+   <path>F:\数据集图片\11956622\chuan\1\2(513).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>1000</width>
+      <height>350</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>youlun</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>256</xmin>
+         <ymin>113</ymin>
+         <xmax>834</xmax>
+         <ymax>329</ymax>
+      </bndbox>
+   </object>
+</annotation>

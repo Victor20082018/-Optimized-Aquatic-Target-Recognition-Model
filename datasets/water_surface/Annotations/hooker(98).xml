@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>渔船</folder>
+   <filename>hooker(98).jpg</filename>
+   <path>F:\Yolo-V3\渔船\hooker(98).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>250</width>
+      <height>188</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>warship</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>23</xmin>
+         <ymin>24</ymin>
+         <xmax>231</xmax>
+         <ymax>149</ymax>
+      </bndbox>
+   </object>
+</annotation>

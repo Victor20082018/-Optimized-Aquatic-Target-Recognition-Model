@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>bird(323).jpg</filename>
+	<path>F:\VOC2007\VOC2007\JPEGImages\bird(323).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>103</ymin>
+			<xmax>383</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>1(351).jpg</filename>
+	<path>F:\VOC2007\VOC2007\JPEGImages\1(351).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>329</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fanchuan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>24</ymin>
+			<xmax>222</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>帆船</folder>
+   <filename>fans(42).jpg</filename>
+   <path>F:\Yolo-V3\帆船\fans(42).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>220</width>
+      <height>147</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>fanchuan</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>67</xmin>
+         <ymin>26</ymin>
+         <xmax>145</xmax>
+         <ymax>134</ymax>
+      </bndbox>
+   </object>
+</annotation>

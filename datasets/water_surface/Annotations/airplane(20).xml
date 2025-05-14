@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>airplane1</folder>
+   <filename>airplane(20).jpg</filename>
+   <path>F:\Yolo-V3\airplane1\airplane(20).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>640</width>
+      <height>358</height>
+      <depth>1</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>airplane</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>69</xmin>
+         <ymin>88</ymin>
+         <xmax>578</xmax>
+         <ymax>269</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>airplane</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>2</xmin>
+         <ymin>121</ymin>
+         <xmax>448</xmax>
+         <ymax>253</ymax>
+      </bndbox>
+   </object>
+</annotation>

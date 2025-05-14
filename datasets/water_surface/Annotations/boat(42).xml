@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>船</folder>
+   <filename>boat(42).jpg</filename>
+   <path>F:\Yolo-V4数据集\船\boat(42).JPG</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>807</width>
+      <height>1200</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>fanchuan</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>19</xmin>
+         <ymin>139</ymin>
+         <xmax>678</xmax>
+         <ymax>1073</ymax>
+      </bndbox>
+   </object>
+</annotation>

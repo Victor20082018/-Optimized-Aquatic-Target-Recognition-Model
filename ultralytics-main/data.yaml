@@ -1,0 +1,5 @@
+train: ../datasets/water_surface/train/images
+val: ../datasets/water_surface/val/images
+
+nc: 10
+names: ['fanchuan', 'person', 'otherboat', 'bird', 'youlun', 'warship', 'yacht', 'airplane', 'Cargoship', 'fish']

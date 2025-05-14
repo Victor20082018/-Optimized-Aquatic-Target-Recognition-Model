@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>游艇</folder>
+   <filename>yacht(5).jpg</filename>
+   <path>F:\Yolo-V3\游艇\yacht(5).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>1024</width>
+      <height>683</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>yacht</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>173</xmin>
+         <ymin>237</ymin>
+         <xmax>786</xmax>
+         <ymax>483</ymax>
+      </bndbox>
+   </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPG</folder>
+	<filename>z(49).jpg</filename>
+	<path>F:\JPG\z(49).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>980</width>
+		<height>652</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>otherboat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>255</ymin>
+			<xmax>777</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+</annotation>

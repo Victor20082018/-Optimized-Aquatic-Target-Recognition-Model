@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>军舰</folder>
+   <filename>juns(24).jpg</filename>
+   <path>F:\Yolo-V3\军舰\juns(24).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>262</width>
+      <height>160</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>warship</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>11</xmin>
+         <ymin>29</ymin>
+         <xmax>248</xmax>
+         <ymax>124</ymax>
+      </bndbox>
+   </object>
+</annotation>

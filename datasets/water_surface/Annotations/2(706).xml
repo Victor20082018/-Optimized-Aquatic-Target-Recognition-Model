@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>2</folder>
+   <filename>2(706).jpg</filename>
+   <path>F:\Yolo-V3\2\2(706).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>326</width>
+      <height>220</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>yacht</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>55</xmin>
+         <ymin>62</ymin>
+         <xmax>282</xmax>
+         <ymax>126</ymax>
+      </bndbox>
+   </object>
+</annotation>

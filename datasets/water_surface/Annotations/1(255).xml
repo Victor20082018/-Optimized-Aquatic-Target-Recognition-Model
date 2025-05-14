@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rename1</folder>
+	<filename>1(255).jpg</filename>
+	<path>F:\Yolo-V3\rename\rename1\1(255).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>293</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fanchuan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>3</ymin>
+			<xmax>282</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>2</folder>
+   <filename>2(485).jpg</filename>
+   <path>F:\Yolo-V3\2\2(485).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>380</width>
+      <height>220</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>warship</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>3</xmin>
+         <ymin>30</ymin>
+         <xmax>374</xmax>
+         <ymax>212</ymax>
+      </bndbox>
+   </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>1</folder>
+   <filename>1(106).jpg</filename>
+   <path>F:\Yolo-V3\1\1(106).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>330</width>
+      <height>220</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>fanchuan</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>33</xmin>
+         <ymin>12</ymin>
+         <xmax>187</xmax>
+         <ymax>209</ymax>
+      </bndbox>
+   </object>
+</annotation>

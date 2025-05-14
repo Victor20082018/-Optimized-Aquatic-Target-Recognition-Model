@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>邮轮</folder>
+   <filename>youlun(80).jpg</filename>
+   <path>F:\Yolo-V3\邮轮\youlun(80).jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>3504</width>
+      <height>2336</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>youlun</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>662</xmin>
+         <ymin>582</ymin>
+         <xmax>2849</xmax>
+         <ymax>2068</ymax>
+      </bndbox>
+   </object>
+</annotation>

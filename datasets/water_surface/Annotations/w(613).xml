@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPG</folder>
+	<filename>w(613).jpg</filename>
+	<path>F:\JPG\w(613).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4794</width>
+		<height>2536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1825</xmin>
+			<ymin>1167</ymin>
+			<xmax>2799</xmax>
+			<ymax>1538</ymax>
+		</bndbox>
+	</object>
+</annotation>

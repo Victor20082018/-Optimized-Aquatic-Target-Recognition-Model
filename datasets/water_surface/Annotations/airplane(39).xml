@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>airplane(39).jpg</filename>
+	<path>F:\VOC2007\VOC2007\JPEGImages\airplane(39).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>otherboat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>345</ymin>
+			<xmax>365</xmax>
+			<ymax>630</ymax>
+		</bndbox>
+	</object>
+</annotation>
