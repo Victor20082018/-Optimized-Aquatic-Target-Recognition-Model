@@ -1,0 +1,34 @@
+The optimized aquatic target recognition model has undergone specialized training for marine environments, achieving enhanced detection accuracy. Capable of identifying sailboats, humans, various vessels, birds, cruise ships, aircraft, cargo ships, and fish, the system features a Python-implemented user interface for operational deployment. Utilizing Python, YOLOv8, OpenCV, and Ultralytics frameworks, this project incorporates parameter tuning and specialized enhancement factors for water surface condition adaptation. Two model versions are available, with the Pro version representing the latest optimization incorporating environmental context awareness innovations.
+Here's a polished English translation suitable for a GitHub README:
+
+Environment & Setup‌
+Dependencies‌
+Python 3.x, Pip3/Conda
+OpenCV, PyTorch, Ultralytics YOLOv8, NumPy, PyQt
+Training Configuration‌
+GPU Support‌
+Training can be executed on any GPU-enabled platform (e.g., AutoDL) with leased computational resources.
+Dataset‌
+Custom Dataset‌
+Manually curated and annotated defect detection dataset.
+Dataset Structure‌
+text
+Copy Code
+datasets/
+├── images/           # Raw images
+├── labels/           # Annotation files
+├── train/            # Training set
+├── val/              # Validation set
+└── test/             # Testing set
+
+Project Structure‌
+GUI Application‌
+APP.py: Post-training inference interface with PyQt GUI.
+Training Outputs‌
+runs/: Contains training logs, model weights, and evaluation results.
+Core Modules‌
+Ultralitics/: Implementation code for training/validation/testing.
+Optimization‌
+change1/: Hyperparameter tuning and architecture enhancements.
+
+This structure balances technical accuracy with readability for open-source collaborators. Key components are clearly mapped to standard ML project conventions.
