@@ -31,4 +31,3 @@ Ultralitics/: Implementation code for training/validation/testing.
 Optimization‌
 change1/: Hyperparameter tuning and architecture enhancements.
 
-This structure balances technical accuracy with readability for open-source collaborators. Key components are clearly mapped to standard ML project conventions.
